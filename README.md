@@ -1,5 +1,5 @@
 # qwikipedia
-Qwikipedia is a game on Wikipedia based on PHP
+Qwikipedia is a game on Wikipedia made on PHP and MySQL
 
 # What is Qwikipedia?
 
