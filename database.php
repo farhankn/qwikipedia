@@ -3,8 +3,8 @@ class Database
 {
 	private static $dbName = 'quickipedia' ; 
 	private static $dbHost = 'localhost' ;
-	private static $dbUsername = 'root';
-	private static $dbUserPassword = '';
+	private static $dbUsername = 'XXXXX';
+	private static $dbUserPassword = 'XXXXX';
 	
 	private static $cont  = null;
 	
