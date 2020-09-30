@@ -1,6 +1,10 @@
 # qwikipedia
 Qwikipedia is a game on Wikipedia made on PHP and MySQL
 
+# qwikipedia
+Qwikipedia is a game on Wikipedia made on PHP,MySQL
+
+
 # What is Qwikipedia?
 
 Ever been on Wikipedia to look up an article? More often than not, we start with one topic, click on a few links and within no time are reading about something else. Qwikipedia is a game that tries to quench this curiosity in us.
