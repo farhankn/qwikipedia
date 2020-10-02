@@ -39,7 +39,8 @@ CREATE TABLE IF NOT EXISTS `customers` (
 
 INSERT INTO `customers` (`id`, `name`, `email`, `mobile`) VALUES
 (1, 'Farhan', 'mohammedfarhan.kn@gmail.com', '9400975373'),
-(2, 'Sreelakshmi', 'ssr@gmail.com', '+914842475373');
+(2, 'Sreelakshmi', 'ssr@gmail.com', '+914842475373')
+(3,'jithin','jithinks@hotmail.com','8547245880');
 
 -- --------------------------------------------------------
 
