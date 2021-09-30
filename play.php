@@ -30,8 +30,8 @@
 <head>
 	<title>Play Game</title>
     <meta charset="utf-8">
-    <link   href="css/bootstrap.css" rel="stylesheet">
-    <script src="js/bootstrap.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
 
 </head>
 
