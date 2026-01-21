@@ -6,6 +6,7 @@ Qwikipedia is a game on Wikipedia made on PHP,MySQL
 
 
 # What is Qwikipedia?
+Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
 
 Ever been on Wikipedia to look up an article? More often than not, we start with one topic, click on a few links and within no time are reading about something else. Qwikipedia is a game that tries to quench this curiosity in us.
 
@@ -29,5 +30,5 @@ License
 
 MIT
 
-
+User Friendly site!
 **Free Software, Hell Yeah!**
